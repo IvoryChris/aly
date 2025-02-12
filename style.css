@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    margin: 0px;
+    border: 25px solid blue;
+}
+
+.ohidonotknow {
+background-color: black;
+float: center;
+color: aquamarine;
+}
+
+a {
+ text-align: center;
+}
+
+.link1 {
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 25px;
+}
+
+.link2 {
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 25px;
+}
+
+.link3 {
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 25px;
+}
+
+.link4 {
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 25px;
+}
+
+.link5 {
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 35px;
+}
+
+.img{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
